@@ -16,4 +16,4 @@ jobs:
         path: example
         message: "Render PlantUML files"
       env:
-        GITHUB_TOKEN: ${{ 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 }}
+        GITHUB_TOKEN: ${{ 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 }}
