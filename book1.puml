@@ -68,3 +68,6 @@ In this case, this action complements `@startgantt` and `@endgantt`.
 ```
 
 ![](./md-sample-gantt.svg)
+
+You can include diagram type in a fence information with format `plantuml@{type}:{filename}`.
+In this case, this action complements `@startgantt` and `@endgantt`.
