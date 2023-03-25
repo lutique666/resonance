@@ -1,2 +1,2 @@
-- name: PlantUML GitHub Action
-  uses: rotaract/plantuml-action@v1.3.0
+name: PlantUML GitHub Action
+uses: rotaract/plantuml-action@v1.3.0
